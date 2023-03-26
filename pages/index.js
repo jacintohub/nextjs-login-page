@@ -59,7 +59,7 @@ export default function Home() {
 
           <div className='w-2/5 bg-gradient-to-r from-cyan-500 to-blue-500 text-white rounded-tr-2xl rounded-br-2xl py-36 px-12'>
 
-            <h2 className='text-3xl font-bold mb-2'>Hello, Friend!</h2>
+            <h2 className='text-2xl font-bold mb-2'>Hello, Friend!</h2>
 
             <div className='border-2 w-10 border-white mb-2 inline-block'></div>
 
